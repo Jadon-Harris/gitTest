@@ -1,1 +1,2 @@
 <input model:value="{{value}}" bindinput="change"/>
+<input model:value="{{value}}" bindinput="change"/>
